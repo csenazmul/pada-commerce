@@ -1,5 +1,5 @@
-.slider-area, .categories-area, .categories-item-area{
-    margin-top:70px
+.slider-area, .categories-area, .categories-item-area, .categories-item-area{
+    margin-top:80px
 }
 .carousel{
     border:1px solid #feeae9;
@@ -54,4 +54,13 @@
 .cat3{
     background-color:blue;
     border:1px solid blue;
+}
+
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.btn-area{
+    
 }
