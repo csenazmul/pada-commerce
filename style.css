@@ -1,7 +1,7 @@
-.slider-area, .categories-area, .categories-item-area, .categories-item-area{
+.slider-area, .categories-area, .categories-item-area, .categories-item-area, .subscribe-area{
     margin-top:80px
 }
-.carousel{
+.carousel, .sub-area{
     border:1px solid #feeae9;
     border-radius: 10px;
 }
@@ -10,7 +10,7 @@
     padding:70px 0px 10px 70px;
     width:100%;
 }
-.orange-bg{
+.orange-bg, .sub-area{
     background-color:#feeae9;
 }
 .carousel-item{
@@ -63,4 +63,8 @@
 
 .btn-area{
     
+}
+
+.subscribe{
+    padding:50px 20px;
 }
