@@ -1,5 +1,5 @@
-.slider-area{
-    margin-top:30px
+.slider-area, .categories-area{
+    margin-top:70px
 }
 .carousel{
     border:1px solid #feeae9;
@@ -27,4 +27,31 @@
 
 .carousel-indicators button.active{
     background-color:#ffbb24;
+}
+
+/* categories-area */
+.categories-area{
+    
+}
+
+.cat-item h2{
+ color:#feeae9;
+}
+.cat-item-list{
+    
+    /* margin-right: 5px; */
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.cat1{
+    background-color: #ffbb24; 
+    border:1px solid #ffbb24;
+}
+.cat2{
+    background-color:#ff287c;
+    border:1px solid #ffbb24;
+}
+.cat3{
+    background-color:blue;
+    border:1px solid blue;
 }
