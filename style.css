@@ -1,0 +1,30 @@
+.slider-area{
+    margin-top:30px
+}
+.carousel{
+    border:1px solid #feeae9;
+    border-radius: 10px;
+}
+.caption-area{
+    margin:10px;
+    padding:70px 0px 10px 70px;
+    width:100%;
+}
+.orange-bg{
+    background-color:#feeae9;
+}
+.carousel-item{
+    padding:50px 40px;
+}
+.buy-now-btn{
+    background-color: #ff287c;
+    color:#fff;
+    border:1px solid #ff287c;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 10px;
+}
+
+.carousel-indicators button.active{
+    background-color:#ffbb24;
+}
